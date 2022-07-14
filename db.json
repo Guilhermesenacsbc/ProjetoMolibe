@@ -1,0 +1,58 @@
+{
+  "hf": [
+    {
+      "id": 1,
+      "fruta": "Morango",
+      "valor": "R$ 20,59",
+      "foto": "/assets/morango.jpg"
+    },
+    {
+      "id": 2,
+      "fruta": "Abacaxi",
+      "valor": "R$ 5,00",
+      "foto": "/assets/abacaxi.jpg"
+    },
+    {
+      "id": 3,
+      "fruta": "Banana",
+      "valor": "5,78",
+      "foto": "/assets/banana.jpg"
+    },
+    {
+      "id": 4,
+      "fruta": "manga",
+      "valor": "R$ 19,00",
+      "foto": "/assets/kiwi.jpg"
+    },
+    {
+      "id": 5,
+      "fruta": "alo",
+      "valor": "5,78",
+      "foto": "/assets/banana.jpg"
+    },
+    {
+      "id": 6,
+      "fruta": "manga",
+      "valor": "5,78",
+      "foto": "/assets/banana.jpg"
+    },
+    {
+      "id": 7,
+      "fruta": "",
+      "valor": "",
+      "foto": ""
+    },
+    {
+      "id": 8,
+      "fruta": "",
+      "valor": "",
+      "foto": ""
+    },
+    {
+      "id": "684",
+      "fruta": "ROBERTINHO",
+      "valor": "2",
+      "foto": "SD"
+    }
+  ]
+}
